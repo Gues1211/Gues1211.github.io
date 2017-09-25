@@ -1,10 +1,10 @@
 # Site settings
-title: Ruby CLI gem project
+title: Get ready, set, code!
 header-img: img/home-bg.png
 email: germain1211@outlook.com
 copyright_name: Gues1211
 description: > # this means to ignore newlines until "baseurl:"
-  My first project 
+  My coding journey, get a head start!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Gues1211
